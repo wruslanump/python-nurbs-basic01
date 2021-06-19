@@ -80,6 +80,8 @@ import traceback2       #(In Python 2.x, unlike traceback, traceback2 creates un
 
 ### GRAPHICS PROCESSING PACKAGES
 
+import geomdl      #(Python-NURBS library)
+import plotly      #(Plotting library)
 import matplotlib.pyplot
 import matplotlib  #(Plotting library for Python and NumPy. Object-oriented API embedding plots using GUI toolkits Tkinter, wxPython, Qt, or GTK.)
 import pylab       #(Module that bulk imports matplotlib.pyplot (for plotting) and NumPy (for Mathematics) in a single name space.)

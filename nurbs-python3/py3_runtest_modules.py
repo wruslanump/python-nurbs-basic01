@@ -74,6 +74,8 @@ import pytest_parallel     #(A pytest plugin for parallel and concurrent testing
 
 ### GRAPHICS PROCESSING PACKAGES
 
+import geomdl      #(Python NURBS library)
+import plotly      #(Plotting Library)
 import matplotlib  #(Plotting library for Python and NumPy. Provides object-oriented API embedding plots using GUI toolkits Tkinter, wxPython, Qt, or GTK.)
 import Gnuplot     #(Python package that interfaces to gnuplot. Can plot data on the fly as they are computed.)
 import PyGnuplot   #(PyGnuplot: Python wrapper for Gnuplot.)
